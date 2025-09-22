@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0
+
+### Major Changes
+
+- 1805c83: Update the supertokens-node dependency version
+
 ## 0.0.5 (2025-06-09)
 
 ### Changes
